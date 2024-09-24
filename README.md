@@ -1,5 +1,6 @@
 # BBO.directory
 ## Listado de npubs de la comunidad BBO
+### Por orden alfabético
 | Alias                     | NIP05                         | Npub                                                          |
 | ------------------------- | -------------                 |---------------------------------------------------------------|
 | Alejandro / Androdark     | -                             |npub1nfpl8mjn6e7xesj2amdz7464frdn2tmqlzuan97wx25et0f48evszsjspn|
