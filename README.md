@@ -33,6 +33,7 @@
 | Libertatis                | -                             |npub1nx5pd2s6dqq6yfkz33jlv88wnlz0pds2ulx3awf8lwhwpml8f2gsvmvyjw|
 | Lunaticoin                | -                             |npub1yn3hc8jmpj963h0zw49ullrrkkefn7qxf78mj29u7v2mn3yktuasx3mzt0|
 | Markush                   | -                             |npub1mann7xthsje8qahrv4cv00mvdfkzkhxdkqwmemesu52vsqxps9yqnrksse|
+| Misat                     | -                             |npub1q9hwe8g2eqvh25kyy3smep96p9m83sdsyalm70kvcgm9z75dp0kswlyekt|
 | Mondosaguas               | -                             |npub1cg7m0z8wvtrq70duyq3fflctgyjaccvtp6pc6zzvwqwa3m5rj3ashywuwq|
 | Nicomanso                 | -                             |npub1nlc0mn7gnrp8pppxuzaj0xmeu7zf8sgat7r3afy2c34z2922znjq7ftmca|
 | Osqui                     | -                             |npub19xuxyanhuv3yz625qpew837y0jleaq3lak4k3dy6mvg9a5rapgsqhlgk6l|
