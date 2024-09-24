@@ -13,3 +13,4 @@
 | Rnarder                   | -                             |npub1hx23cylx8svputuezal2ur5d7wz2r4lvvjudk2q2j33u8f3rge3slc9t6a|
 | Twofaktor                 | twofaktor@twofaktor.github.io |npub1k9luehc8hg3c0upckdzzvusv66x3zt0eyw7290kclrpsndepz92sfcpp63|
 | Unhosted Marcellus        | -                             |npub100mahqlhxg50thmt5dyynu40nl25hat9kkkknzk8pqjfkvgq0xsqtdfyy5|
+| Wave                      | -                             |npub15l9twepl23pnnj837h7xgmxtl7smn2mps3466g4nxjpk3g9a9xrss94elr|
