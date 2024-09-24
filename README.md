@@ -13,6 +13,7 @@
 | Lunaticoin                | -                             |npub1yn3hc8jmpj963h0zw49ullrrkkefn7qxf78mj29u7v2mn3yktuasx3mzt0|
 | Markush                   | -                             |npub1mann7xthsje8qahrv4cv00mvdfkzkhxdkqwmemesu52vsqxps9yqnrksse|
 | R4f4                      | r4f4@nostrich.zone            |npub1r4f400ekc57sjg05v883nxpjmfudjgutf95d8dgc2pgazx7lpffqaf063p|
+| Renato32                  | -                             |npub1rh2wrrwjtsx86kvjxumfyz7y09qzqk04s2mtlanv76l5xuz09mqqeea4ws|
 | Rnarder                   | -                             |npub1hx23cylx8svputuezal2ur5d7wz2r4lvvjudk2q2j33u8f3rge3slc9t6a|
 | Twofaktor                 | twofaktor@twofaktor.github.io |npub1k9luehc8hg3c0upckdzzvusv66x3zt0eyw7290kclrpsndepz92sfcpp63|
 | Unhosted Marcellus        | -                             |npub100mahqlhxg50thmt5dyynu40nl25hat9kkkknzk8pqjfkvgq0xsqtdfyy5|
