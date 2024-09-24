@@ -5,6 +5,7 @@
 | ------------------------- | -------------                 |---------------------------------------------------------------|
 | Alejandro / Androdark     | -                             |npub1nfpl8mjn6e7xesj2amdz7464frdn2tmqlzuan97wx25et0f48evszsjspn|
 | Alex / Berenguer          |berenguer@🌠🌌.ws             |npub14cj2470slt6gq95rhucj7cxu9pkrtr0jjmnkl5dp5t47zj2fmgns3yfqyg|
+| BlueLynx                  | -                             |npub1043ntqgnxyadg40rdz3nmxtsfrlyd86h6kfesa4gz3a6ugcnervss2pqdt|
 | Eznomada                  | -                             |npub1ezn0mds24xca744nvrs2kkhpfhnvju92cg62avfgz7sc35xuzdgqlesxpt|
 | General Kenobi            | kenobi@iris.to                |npub1ds5e2wulc0sdn9kdq8yku2drwhx34lsuyggulrfl0f354un53cvqsqqrhg|
 | Gzuus                     | gzuuus@nostree.me             |npub1gzuushllat7pet0ccv9yuhygvc8ldeyhrgxuwg744dn5khnpk3gs3ea5ds|
