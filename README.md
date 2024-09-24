@@ -3,8 +3,9 @@
 | Alias                     | NIP05                         | Npub                                                          |
 | ------------------------- | -------------                 |---------------------------------------------------------------|
 | Alejandro / Androdark     | -                             |npub1nfpl8mjn6e7xesj2amdz7464frdn2tmqlzuan97wx25et0f48evszsjspn|
-| Berenguer                 |berenguer@🌠🌌.ws             |npub14cj2470slt6gq95rhucj7cxu9pkrtr0jjmnkl5dp5t47zj2fmgns3yfqyg|
+| Berenguer / Alex          |berenguer@🌠🌌.ws             |npub14cj2470slt6gq95rhucj7cxu9pkrtr0jjmnkl5dp5t47zj2fmgns3yfqyg|
 | Eznomada                  | -                             |npub1ezn0mds24xca744nvrs2kkhpfhnvju92cg62avfgz7sc35xuzdgqlesxpt|
+| General Kenobi            | kenobi@iris.to                |npub1ds5e2wulc0sdn9kdq8yku2drwhx34lsuyggulrfl0f354un53cvqsqqrhg|
 | Gzuus                     | gzuuus@nostree.me             |npub1gzuushllat7pet0ccv9yuhygvc8ldeyhrgxuwg744dn5khnpk3gs3ea5ds|
 | Kilombino                 | kilombino@iris.to             |npub1cll9lw042fmaydqpcs6xftrrtgx0nfaljclc5ve2n74k5wngntpqen3945|
 | Lunaticoin                | -                             |npub1yn3hc8jmpj963h0zw49ullrrkkefn7qxf78mj29u7v2mn3yktuasx3mzt0|
