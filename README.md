@@ -1,5 +1,5 @@
 # BBO.directory
-## Listado de npubs de la comunidad BBO
+## Listado de npubs de la comunidad BBO npub10nlyn8wm0da6wqgawnl0qvjx6thyy00mvlpm0aetkx5nf7kw9xdsgz26e8
 ### Por orden alfabético
 | Alias                     | NIP05                         | Npub                                                          |
 | ------------------------- | -------------                 |---------------------------------------------------------------|
