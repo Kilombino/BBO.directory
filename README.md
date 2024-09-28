@@ -34,6 +34,7 @@
 | Libertad2cero             | -                             |npub1s9u9kj3r3rwt4m2l0u62rlw4l29tfvfuu5he0t5ka5eu97wy0taszmqxfw|
 | Libertatis                | -                             |npub1nx5pd2s6dqq6yfkz33jlv88wnlz0pds2ulx3awf8lwhwpml8f2gsvmvyjw|
 | Lunaticoin                | -                             |npub1yn3hc8jmpj963h0zw49ullrrkkefn7qxf78mj29u7v2mn3yktuasx3mzt0|
+| Marce                     | -                             |npub1y67n93njx27lzmg9ua37ce7csvq4awvl6ynfqffzfssvdn7mq9vqlhq62h|
 | Markush                   | -                             |npub1mann7xthsje8qahrv4cv00mvdfkzkhxdkqwmemesu52vsqxps9yqnrksse|
 | Misat                     | -                             |npub1q9hwe8g2eqvh25kyy3smep96p9m83sdsyalm70kvcgm9z75dp0kswlyekt|
 | Mondosaguas               | -                             |npub1cg7m0z8wvtrq70duyq3fflctgyjaccvtp6pc6zzvwqwa3m5rj3ashywuwq|
