@@ -16,7 +16,9 @@
 | Criptopanas               | -                             |npub1c99acl56yszpxlnr0944d32e8lyah20qrau77lx0tldn8224hpkqdawnw3|
 | counterweight             | -                             |npub1a29gdc6p7c05az2ka3qwwpl9kfcqmws3xlwmjefmtkulfhgd7u6shuqatg|
 | Cyb3rn4ut4                | -                             |npub1q6hrwls4stuu7vyjn27sze4yjue8rhuhmhjx768szt5xtlp70cfqxy0exj|
+| curiouswizard             | -                             |npub138lktp328xjqvs45zysswzjxu4gxj58uypmlt486nxhek3dry8vsf3zeru|
 | Decentralized             | -                             |npub1qqqqqq9tkeunk6ma4zdlgt4euev7p5c64jdmp7354x0zdrns3ars20hrhr|
+| Entropy                   | -                             |npub1xezugyga3wjlpzyngxdv5ccn6lrzetw4trcyayh52h6km8udydrqxu9xkw|
 | ernest                    | -                             |npub1p3zudqamnry26fekxp9d0dh9suf4gjcdmq5h9pgkxdal28204a9qf7t95l|
 | Eznomada                  | -                             |npub1ezn0mds24xca744nvrs2kkhpfhnvju92cg62avfgz7sc35xuzdgqlesxpt|
 | General Kenobi            | kenobi@iris.to                |npub1ds5e2wulc0sdn9kdq8yku2drwhx34lsuyggulrfl0f354un53cvqsqqrhg|
